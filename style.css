@@ -1,0 +1,47 @@
+.userType, input[type="submit"]
+{
+display:inline-block;
+background-color:blue;
+padding:5px;
+margin-left:5px;
+margin-top:70px;
+color:white;
+}
+
+.userType a
+{
+color:white;
+text-decoration:none;
+}
+
+img {
+width:60%;
+height:40%;
+padding:20px;
+}
+
+form{
+display:inline-block;
+}
+
+body{
+background-color: #81d6ff;
+}
+
+table
+{
+display:inline-block;
+vertical-align:top;
+background-color:#c4ff41;
+padding:5px;
+text-align:left;
+border-collapse:collapse;
+margin-top:10%;
+}
+td,th
+{
+padding:3px;
+border:2px solid white;
+}
+
+
