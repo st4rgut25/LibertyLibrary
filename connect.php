@@ -2,7 +2,7 @@
 
 $username="root";
 $servername="localhost";
-$password="3141&juno";
+$password="dumbotron";
 $cnn = mysqli_connect($servername,$username,$password);
 if($cnn){
 //echo "connection to server successful";
